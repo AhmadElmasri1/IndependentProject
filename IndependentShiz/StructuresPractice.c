@@ -3,7 +3,5 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-#include <stdbool.h>
-_Bool acidRain(double a){
-    return 0;
-}
+
+
